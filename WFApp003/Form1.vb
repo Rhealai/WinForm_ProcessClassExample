@@ -5,7 +5,7 @@ Public Class Form1
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
 
-        Dim Dir As String = "C:\"
+        Dim Dir As String = "D:\"
         Directory.SetCurrentDirectory(Dir)
         TextBox1.Text = RunWinApplication()
 
@@ -20,7 +20,7 @@ Public Class Form1
 
         'Process類有一個StartInfo屬性，這個是ProcessStartInfo類，包括了一些屬性和方法，下面我們用到了他的幾個屬性：
 
-        p.StartInfo.WorkingDirectory = "C:\"
+        p.StartInfo.WorkingDirectory = "D:\"
         p.StartInfo.FileName = "run.bat"           '設定程序名
 
         p.StartInfo.UseShellExecute = False        '關閉Shell的使用

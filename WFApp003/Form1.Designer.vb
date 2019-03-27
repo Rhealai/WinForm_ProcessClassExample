@@ -34,7 +34,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(119, 30)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Button1"
+        Me.Button1.Text = "執行"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'TextBox1
@@ -59,7 +59,7 @@ Partial Class Form1
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(67, 29)
         Me.Button2.TabIndex = 3
-        Me.Button2.Text = "Button2"
+        Me.Button2.Text = "歸零"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Form1

@@ -21,3 +21,23 @@ C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WFApp0
 C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WFApp003\WFApp003\obj\x86\Debug\WFApp003.Resources.resources
 C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WFApp003\WFApp003\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WFApp003\WFApp003\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\bin\Debug\WFApp003.exe.config
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.exe
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.xml
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.pdb
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\bin\Debug\WFApp003.exe
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\bin\Debug\WFApp003.pdb
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\bin\Debug\WFApp003.xml
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.Form1.resources
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.Resources.resources
+S:\CodeFiles\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.vbproj.GenerateResource.Cache
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\bin\Debug\WFApp003.exe.config
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.exe
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.xml
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.pdb
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\bin\Debug\WFApp003.exe
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\bin\Debug\WFApp003.pdb
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\bin\Debug\WFApp003.xml
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.Form1.resources
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.Resources.resources
+D:\USER\rioyclai\Desktop\WinForm_ProcessClassExample\WFApp003\obj\x86\Debug\WFApp003.vbproj.GenerateResource.Cache
